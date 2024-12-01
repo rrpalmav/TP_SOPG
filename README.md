@@ -1,6 +1,6 @@
 # TP Practico de SOPG
 
-Trabajo Practico para la clase de Sistemas Operativos de Proposito General
+Trabajo Practico para la clase de Sistemas Operativos de Proposito General del 5to. Bimestre del 2024 de la Especialización de Sistemas Embedidos de la Universidad de Buenos Aires.
 - Presentado por: Ricardo Roberto Palma Ventura
 
 Este es un servidor simple implementado en C que maneja tres comandos básicos para almacenar, recuperar y eliminar datos:
